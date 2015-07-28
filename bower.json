@@ -1,0 +1,23 @@
+{
+  "name": "avatchinsky-web-client",
+  "version": "0.0.0",
+  "authors": [
+    "AVatch <avatchinsky@outlook.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "masonry": "~3.3.1",
+    "imagesloaded": "~3.1.8",
+    "bootstrap": "~3.3.5",
+    "ionicons": "~2.0.1",
+    "classie": "~1.0.1",
+    "modernizer": "~2.8.2"
+  }
+}
